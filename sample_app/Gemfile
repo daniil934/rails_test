@@ -32,3 +32,5 @@ end
 # Uncomment the following line if you're running Rails
 # on a native Windows system:
 gem "tzinfo-data"
+gem 'minitest', group: :test
+gem 'minitest-reporters', group: :test
